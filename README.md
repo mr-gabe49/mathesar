@@ -1,6 +1,6 @@
 # Mathesar
 
-Mathesar is a project to make databases easier to use for non-technical users. Our aim is help users of all skill levels store, manipulate, visualize, and collaborate with others on data.
+Mathesar is a project to make databases easier to use for non-technical users. Our aim is to help users of all skill levels store, manipulate, visualize, and collaborate with others on data.
 
 We are currently in early development and hope to release an alpha version by late 2021. Please see the [Mathesar wiki](https://wiki.mathesar.org/) for more information about the project.
 
